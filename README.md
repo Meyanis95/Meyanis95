@@ -5,7 +5,7 @@
 - 📫 How to reach me @yanis_mezn
 
 Built Michi with @tcheee during the Road to Web3 ETHGlobal Hackathons:
-https://github.com/tcheee/michi/commits?author={USER_ID}
+https://github.com/tcheee/michi/
 
 <!---
 Meyanis95/Meyanis95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
