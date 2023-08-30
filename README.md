@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Meyanis95
-- 👀 I’m interested in building Web3 Products
-- 🌱 I’m currently learning Js, Solidity, React.js
-- 💞️ I’m looking to collaborate on Web3 Products
+- 👀 I’m a fullstack software engineer
+- 💞️ I’m looking to collaborate on Zk projects
 - 📫 How to reach me @yanis_mezn
-
-Built Michi with @tcheee during the Road to Web3 ETHGlobal Hackathons:
-https://github.com/tcheee/michi/
 
 <!---
 Meyanis95/Meyanis95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
